@@ -21,7 +21,7 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
 | ---------------- | ---------------- |
 
 -----
-### Donate
+### :sparkling_heart: Donate
  - [Afdian](https://afdian.net/@KimmyXYC)
  - [Patreon](https://patreon.com/kimmyxyc)
 -----
