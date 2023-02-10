@@ -20,9 +20,10 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
 | [![Purofle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimmyXYC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimmyXYC&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 
+-----
 ### Donate
-[Afdian](https://afdian.net/@KimmyXYC)
-[Patreon](https://patreon.com/kimmyxyc)
+ - [Afdian](https://afdian.net/@KimmyXYC)
+ - [Patreon](https://patreon.com/kimmyxyc)
 -----
 
 ![count](https://count.getloli.com/get/@KimmyXYC?theme=moebooru)
