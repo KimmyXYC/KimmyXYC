@@ -1,12 +1,12 @@
 ### :wave: This is KimmyXYC
 
 ```kotlin
-class Purofle: ChineseStudent(Province.HENAN) {
+class KimmyXYC: ChineseStudent(Province.Zhejiang) {
     val usedLanguage = mapOf(
         "Python"      to "python.org",
         "C++"         to "cplusplus.com",
     )
-    val blogUrl = "blog.archlinux.tech"
+    val blogUrl = "kimmyxyc.top"
     
     inner class ContactME {
         val telegram = "t.me/KimmyXYC"
@@ -19,11 +19,6 @@ class Purofle: ChineseStudent(Province.HENAN) {
 ### :sparkles: My Status
 | [![Purofle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimmyXYC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimmyXYC&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
-
-
-
-### My Blog
-[KimmyXYC's Blog](https://www.kimmyxyc.top)
 
 ### Donate
 [Afdian](https://afdian.net/@KimmyXYC)
