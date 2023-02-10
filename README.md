@@ -1,33 +1,33 @@
-你好，我是KimmyXYC,很高兴见到你!
+### :wave: This is KimmyXYC
 
-![图](https://github.com/KimmyXYC/KimmyXYC/raw/main/IMG_20220630_132609_898.jpg)
+```kotlin
+class Purofle: ChineseStudent(Province.HENAN) {
+    val usedLanguage = mapOf(
+        "Python"      to "python.org",
+        "C++"         to "cplusplus.com",
+    )
+    val blogUrl = "blog.archlinux.tech"
+    
+    inner class ContactME {
+        val telegram = "t.me/KimmyXYC"
+        val email    = "kimmyxyc@gmail.com"
+        val matrix   = "KimmyXYC:matrix.org"
+    }
+}
+```
 
-图片来自[pixiv](https://www.pixiv.net/artworks/94008036)
+### :sparkles: My Status
+| [![Purofle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimmyXYC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimmyXYC&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ---------------- | ---------------- |
 
-## 如何找到我
-基本全平台为 **KimmyXYC**
 
-## 个人博客
-[KimmyXYC的博客](https://www.kimmyxyc.top)
 
-## 捐赠
-[爱发电链接](https://afdian.net/@KimmyXYC)
+### My Blog
+[KimmyXYC's Blog](https://www.kimmyxyc.top)
 
+### Donate
+[Afdian](https://afdian.net/@KimmyXYC)
+[Patreon](https://patreon.com/kimmyxyc)
 -----
 
 ![count](https://count.getloli.com/get/@KimmyXYC?theme=moebooru)
-
-<!--
-**KimmyXYC/KimmyXYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
