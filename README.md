@@ -17,7 +17,7 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
 ```
 
 ### :sparkles: My Status
-| [![KimmyXYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimmyXYC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimmyXYC&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![KimmyXYC's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimmyXYC&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimmyXYC&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ---------------- | ---------------- |
 
 -----
