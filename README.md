@@ -5,8 +5,9 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
     val usedLanguage = mapOf(
         "Python"      to "python.org",
         "C++"         to "cplusplus.com",
+        "Docker"      to "docker.com",
     )
-    val blogUrl = "kimmyxyc.top"
+    val blogUrl = "blog.schuvi.cn"
     
     inner class ContactME {
         val telegram = "t.me/KimmyXYC"
