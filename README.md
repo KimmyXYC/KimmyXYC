@@ -7,7 +7,7 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
         "C++"         to "cplusplus.com",
         "Docker"      to "docker.com",
     )
-    val blogUrl = "blog.schuvi.cn"
+    val blogUrl = "blog.nepuko.cn"
     
     inner class ContactME {
         val telegram = "t.me/KimmyXYC"
@@ -23,7 +23,7 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
 
 -----
 ### :sparkling_heart: Donate
- - [Afdian](https://afdian.net/@KimmyXYC)
+ - [Afdian](https://afdian.com/a/KimmyXYC)
  - [Patreon](https://patreon.com/kimmyxyc)
 -----
 
