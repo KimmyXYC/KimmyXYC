@@ -7,7 +7,6 @@ class KimmyXYC: ChineseStudent(Province.Zhejiang) {
         "C++"         to "cplusplus.com",
         "Docker"      to "docker.com",
     )
-    val blogUrl = "blog.nepuko.cn"
     
     inner class ContactME {
         val telegram = "t.me/KimmyXYC"
