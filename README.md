@@ -21,11 +21,15 @@ data class Profile(
 ## ⏱ WakaTime Stats
 
 <p align="center">
-  <img src="https://wakatime.com/share/@KimmyXYC/e4132e53-9ee9-425a-9f53-4d87b8a08179.svg" width="48%">
-  <img src="https://wakatime.com/share/@KimmyXYC/88319b09-e6e7-4a88-b301-d167a408914d.svg" width="48%">
+  <img src="https://wakatime.com/share/@KimmyXYC/e4132e53-9ee9-425a-9f53-4d87b8a08179.svg" width="80%">
 </p>
 
-<a href="https://gitroll.io/profile/uxJ3h0vbQDIS02h1Lnqm6LX8oE662" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxJ3h0vbQDIS02h1Lnqm6LX8oE662?theme=light" alt="GitRoll Profile Badge"/></a>
+<p align="center">
+  <img src="https://wakatime.com/share/@KimmyXYC/88319b09-e6e7-4a88-b301-d167a408914d.svg" width="48%">
+  <a href="https://gitroll.io/profile/uxJ3h0vbQDIS02h1Lnqm6LX8oE662" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uxJ3h0vbQDIS02h1Lnqm6LX8oE662?theme=light" width="48%" alt="GitRoll Profile Badge"/>
+  </a>
+</p>
 
 -----
 ### :sparkling_heart: Donate
