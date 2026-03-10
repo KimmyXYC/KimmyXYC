@@ -41,6 +41,5 @@ data class Profile(
 ### :sparkling_heart: Donate
  - [Afdian](https://afdian.com/a/KimmyXYC)
  - [GitHub Sponsors](https://github.com/sponsors/KimmyXYC)
------
 
 ![count](https://count.getloli.com/get/@KimmyXYC?theme=moebooru)
